@@ -1,0 +1,158 @@
+@media screen and (max-width:380px) {
+  .header-container{
+      width: 90%;
+  }
+  #header nav{
+    display: none;
+}
+.banner-container{
+    width: 90%;
+   margin: auto;
+  
+ 
+}
+.banner-text{
+ display: none;
+}
+.banner-text{
+  width: 90%;
+}
+.frm-container{
+  width: 90%;
+  
+}
+#frm input[type="text"]{
+   width: 15%;
+   height: 35px;
+}
+#frm input[type="email"]{
+   width: 15%;
+   height: 35px;
+}
+.frm-bt{
+    padding: 0px ;
+  
+}
+.wide-container{
+  width: 90%;
+  margin: auto;
+}
+.wide-text h3 {
+  font-size: 40px;
+}
+.wide-text h4 {
+ display: none;
+}
+
+.wide-image{
+  grid-template-columns: auto;
+}
+.act-container{
+  width: 90%;
+  margin: auto;
+}
+.act-text{
+  width: 90%;
+}
+.act-text h3{
+  font-size: 36px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.sv-animal-container{
+  width: 90%;
+  margin: auto;
+}
+.sv-text h3{
+  font-size: 40px;
+}
+.sv-text p{
+  font-size: 12px;
+}
+.gallery{
+  grid-template-columns: auto;
+}
+.about-container{
+  width: 90%;
+  margin: auto;
+
+}
+.about-box{
+  grid-template-columns: auto;
+ 
+ 
+}
+.about-image img{
+  width: 90%;
+
+}
+.about-info{
+  width: 90%;
+
+}
+.about-info h3{
+  font-size: 40px;
+}
+.about-info h4{
+  display: none;
+}
+.end-img{
+  display: none;
+}
+.global-container{
+  width: 90%;
+  grid-template-columns: auto;
+}
+.daily-container{
+  width: 90%;
+  margin: auto;
+}
+.daily-parent{
+  grid-template-columns: auto;
+}
+.news-container{
+  width: 90%;
+  margin: auto;
+}
+.news-heading h3{
+  font-size: 40px;
+}
+.news-parent{
+  grid-template-columns: auto;
+}
+
+.news-text h3{
+  font-size: 20px;
+}
+.join-container{
+  width: 90%;
+  margin: auto;
+}
+.join-text h3{
+  font-size: 40px;
+}
+.partners-container{
+  width: 90%;
+  margin: auto;
+}
+.partners-heading h3{
+  font-size: 40px ;
+}
+.partners-box{
+  grid-template-columns: auto ;
+  text-align: center;
+}
+.footer-container{
+  width: 90%;
+  margin: auto;
+}
+.footer-menu ul li{
+  display: block;
+  padding-bottom: 15px;
+}
+.footer-icon ul li{
+     padding-left: 0px; 
+
+}
+}
